@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-k ctrl-c": "create-function-js:toggle"
+  }
+}

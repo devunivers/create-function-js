@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle create-function-js",
+        "command": "create-function-js:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "create-function-js",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "create-function-js:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
