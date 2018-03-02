@@ -1,7 +1,7 @@
 {
   "name": "create-function-js",
   "main": "./lib/create-function-js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Package to write functions quickly in javascript",
   "keywords": [
     "write",
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
